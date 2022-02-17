@@ -8,6 +8,9 @@ body {
   /* 2. اجعل الصورة تظهر مرة واحد   */
   /* hint : repeat proparty */
   /* اكتب  الكود هنا 👇🏽 */
+    background-color: darkgray;
+    background-size: 50px;
+    background-repeat: no-repeat;
 
   /* المطلوب الخامس هنا  */
   /* يظهر بمتنصف الصفحة  movie cards  اجعل ال   */
@@ -21,6 +24,9 @@ body {
   /* 2, border radius */
   /* 3. add box shadow */
   /* اكتب  الكود هنا 👇🏽 */
+  height: 350px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
 }
 
 .button {
