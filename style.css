@@ -36,6 +36,12 @@ body {
            3.remove border
            4. change  background color */
   /* اكتب  الكود هنا 👇🏽 */
+  display: block;
+  height: 10px;
+  width: 200px;
+  border: none;
+  background-color: rgb(244, 248, 248);
+  
 }
 
 .container {
@@ -48,4 +54,13 @@ body {
          6.اجعل العناصر تظهر بمنتص البطاقة
          7.  border radius */
   /* اكتب  الكود هنا 👇🏽 */
+  width:33.33%;
+  background-color:rgb(148, 174, 204);
+  display: flex;
+  flex-direction:column;
+  padding: 10px;
+  justify-content: space-around;
+  align-items: center;
+  border-radius: 20px;
+  
 }
